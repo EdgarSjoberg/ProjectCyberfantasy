@@ -1,6 +1,6 @@
 # ProjectCyberfantasy
 
-Project Cyberfantasy is the combined efforts of @EdgarSjoberg and @AngeloDarwiche with the help of some friends to build a game that we can be happy with putting on our porfolios!
+Project Cyberfantasy is the combined efforts of @[EdgarSjoberg]([url](https://github.com/EdgarSjoberg)) and @[AngeloDarwiche]([url](https://github.com/AngeloDarwiche)) with the help of some friends to build a game that we can be happy with putting on our porfolios!
 
 This site and the associated [Project]([url](https://github.com/users/EdgarSjoberg/projects/2)https://github.com/users/EdgarSjoberg/projects/2) will have updates on the process, as currently we are only in the early design phase.
 
